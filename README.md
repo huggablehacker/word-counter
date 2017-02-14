@@ -1,5 +1,5 @@
 # Word Counter
-A bash script for counting words in a .txt file
+A bash script for counting words in a .txt file (Currently only .txt files are supported) 
 
 Save  `wc.sh` to desired directory.
 
